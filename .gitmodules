@@ -1,0 +1,3 @@
+[submodule "lib/Blue-Base"]
+	path = lib/Blue-Base
+	url = https://github.com/BlueHuskyStudios/Blue-Base.git
